@@ -1,5 +1,5 @@
 import './App.css';
-import concepts from '../src/database/db.js'
+import concepts from '../src/database/db'
 import Header from './components/Header'
 import Concept from './components/Concept';
 

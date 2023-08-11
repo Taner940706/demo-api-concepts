@@ -1,5 +1,5 @@
 import React from 'react'
-import mainImage from '../assets/images/restapi.png'
+import mainImage from '../assets/images/rest-api.svg'
 
 export default function Header() {
   return (

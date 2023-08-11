@@ -1,5 +1,5 @@
- import statelessImage from '../../src/assets/images/stateless.wepp'
- import communicatesImage from '../../src/assets/images/http.png'
+ import statelessImage from '../../src/assets/images/stateless.webp'
+ import communicatesImage from '../../src/assets/images/https.png'
  import statuscodeImage from '../../src/assets/images/statuscode.webp'
  import manipulateImage from '../../src/assets/images/manipulate-resources.png'
  import providesImage from '../../src/assets/images/hypermedia-api.webp'
@@ -33,3 +33,5 @@
     },
 
 ];
+
+export default concepts;
